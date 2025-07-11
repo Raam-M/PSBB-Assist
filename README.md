@@ -31,6 +31,7 @@
 ---
 
 ## 🗂️ Project Structure
+<pre lang="markdown"><code>
 PSBB-Assist/
 ├── View/
 │   ├── main.py             # Main UI and routing logic
@@ -45,6 +46,8 @@ PSBB-Assist/
 ├── Image/
 │   └── psbblogo.jpg        # Application logo
 └── README.md               # Project documentation
+</code></pre>
+
 
 ---
 
